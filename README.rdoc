@@ -1,0 +1,5 @@
+= puppet-hivemq module
+
+{<img src='https://codex.cegeka.be/jenkins/job/puppet-hivemq/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-hivemq/]
+
+This is the hivemq module.
